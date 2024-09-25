@@ -69,6 +69,10 @@ footer {
     color: rgb(255, 255, 255);
 }
 
+.r h3{
+    background-color: red;
+}
+
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
