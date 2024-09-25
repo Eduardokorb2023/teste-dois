@@ -71,6 +71,9 @@ footer {
 
 .r h3{
     background-color: red;
+    padding:0.7rem;
+    position: absolute;
+    margin:0.6rem;
 }
 
 .cartao__conteudo__pergunta p {
